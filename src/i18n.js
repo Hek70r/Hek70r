@@ -8,6 +8,7 @@ i18n
   .use(LanguageDetector)
   .use(initReactI18next)
   .init({
+    supportedLngs: ["en", "pl"],
     fallbackLng: "en", // default language
     debug: true,
     detection: {
@@ -21,6 +22,10 @@ i18n
         "path",
         "subdomain",
       ],
+      caches: ["cookie"],
+    },
+    backend: {
+      loadPath: "./public/locales/{{lng}}/translation.json",
     },
     interpolation: {
       escapeValue: false,

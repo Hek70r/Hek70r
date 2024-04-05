@@ -1,0 +1,28 @@
+{
+  "navigation": {
+    "about": "About",
+    "technologies": "Technologies",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "language": "language",
+  "greeting": "Hi, I'm",
+  "myDescription": "I'm 3rd year student of Computer Science in Engenieering at AGH\nUniversity of Science and Technology and passionate Software\nEngineer with a keen interest in computer science, especially in the\nrealm of web development.",
+  "getInTouch": "Get in touch",
+  "contact": "Contact",
+  "yourName": "Your name",
+  "namePlaceholder": "What's your name?",
+  "yourEmail": "Your email",
+  "emailPlaceholder": "What's your email?",
+  "yourMessage": "Your message",
+  "messagePlaceholder": "What do you want to say?",
+  "send": "Send",
+  "sending": "Sending ...",
+  "whatIHaveCreatedSoFar": "What I have created so far",
+  "myProjects": "My Projects",
+  "projects": {
+    "discordMusicApp": "A web application that facilitates group music listening and managing favorite tracks using a Discord music bot. Users can register, add songs using the YouTube API, categorize them, 'like' them, and create their own playlists. The project leverages Angular for a dynamic user interface and Node.js with MongoDB on the backend, ensuring security with JWT. A unique feature is the ability to customize the music bot command prefixes (e.g., /play), which simplifies song requesting directly on the Discord server, enhancing user interactivity."
+  },
+  "technologies": "Technologies & Tools",
+  "whatImWorkingWith": "What I'm working with"
+}

@@ -1,0 +1,29 @@
+{
+  "navigation": {
+    "about": "O mnie",
+    "technologies": "Technologie",
+    "projects": "Projekty",
+    "contact": "Kontakt",
+    "language": "Język"
+  },
+  "language": "język",
+  "greeting": "Cześć, jestem",
+  "myDescription": "Jestem studentem trzeciego roku kierunku Informatyka Techniczna Akademii Górniczo-Hutniczej im. Stanisława Staszica w Krakowie. Jestem programistą zafascynowanym światem informatyki, zwłaszcza obszarem związanym z aplikacjami internetowymi",
+  "getInTouch": "Skontaktuj się ze mną",
+  "contact": "Kontakt",
+  "yourName": "Imię",
+  "namePlaceholder": "Jak masz na imię?",
+  "yourEmail": "Email",
+  "emailPlaceholder": "Podaj swój adres e-mail",
+  "yourMessage": "Wiadomość",
+  "messagePlaceholder": "Co chcesz mi przekazać?",
+  "send": "Wyślij",
+  "sending": "Wysyłanie ...",
+  "whatIHaveCreatedSoFar": "Czym moge się pochwalić",
+  "myProjects": "Projekty",
+  "projects": {
+    "discordMusicApp": "Aplikacja webowa ułatwiająca grupowe słuchanie muzyki i zarządzanie ulubionymi utworami korzystając z bota muzycznego na Discordzie. Użytkownicy mogą rejestrować się, dodawać piosenki wykorzystując YouTube API, kategoryzować je, like'ować oraz tworzyć własne playlisty. Projekt wykorzystuje Angular dla dynamicznego interfejsu użytkownika i Node.js z MongoDB na backendzie, zapewniając bezpieczeństwo dzięki JWT. Unikalną cechą jestmożliwość personalizacji prefixów komend bota muzycznego (np. /play), co ułatwia requestowanie piosenek bezpośrednio na serwerze Discord, podnosząc interaktywność użytkowników."
+  },
+  "technologies": "Technologie & Narzędzia",
+  "whatImWorkingWith": "Czego używam do pracy"
+}

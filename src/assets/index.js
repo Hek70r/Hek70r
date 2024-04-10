@@ -22,6 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import pepe from "./projects/pepe-music.gif";
+import motootologo from "./projects/motootologo.png";
 
 import plFlag from "../assets/flags/polishflag.png";
 import enFlag from "../assets/flags/englishflag.png";
@@ -49,6 +50,7 @@ export {
   typescript,
   threejs,
   pepe,
+  motootologo,
   plFlag,
   enFlag,
 };

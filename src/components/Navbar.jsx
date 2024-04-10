@@ -19,18 +19,6 @@ const Navbar = () => {
     { id: "pl", flag: plFlag, name: "Polski" },
   ];
 
-  // Setting user's default language as language displayed
-  useEffect(() => {
-    const userLang = navigator.language || navigator.userLanguage;
-    if (userLang.startsWith("en")) {
-      setCurrentLang("en");
-    } else if (userLang.startsWith("pl")) {
-      setCurrentLang("pl");
-    } else {
-      setCurrentLang("en");
-    }
-  }, []);
-
   const changeLanguage = (langCode) => {
     i18n.changeLanguage(langCode);
     setToggleLang(false);

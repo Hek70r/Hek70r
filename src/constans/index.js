@@ -15,8 +15,9 @@ import {
   git,
   figma,
   docker,
-  pepe,
   threejs,
+  pepe,
+  motootologo,
 } from "../assets";
 
 export const navLinks = [
@@ -36,7 +37,6 @@ export const navLinks = [
     id: "contact",
     title: "navigation.contact",
   },
-  ,
 ];
 
 const frontendTechnologies = [
@@ -130,6 +130,22 @@ const projects = [
       "Express",
       "JWT",
       "MongoDB",
+    ],
+  },
+  {
+    title: "Motooto",
+    icon: motootologo,
+    iconBg: "#ffe",
+    description: "projects.motooto",
+    link: "https://motooto-frontend.vercel.app/login",
+    technologies: [
+      "React.js",
+      "Mantine",
+      "Node.js",
+      "Express",
+      "JWT",
+      "MongoDB",
+      "Email.js",
     ],
   },
 ];

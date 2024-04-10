@@ -21,7 +21,8 @@
   "whatIHaveCreatedSoFar": "What I have created so far",
   "myProjects": "My Projects",
   "projects": {
-    "discordMusicApp": "A web application that facilitates group music listening and managing favorite tracks using a Discord music bot. Users can register, add songs using the YouTube API, categorize them, 'like' them, and create their own playlists. The project leverages Angular for a dynamic user interface and Node.js with MongoDB on the backend, ensuring security with JWT. A unique feature is the ability to customize the music bot command prefixes (e.g., /play), which simplifies song requesting directly on the Discord server, enhancing user interactivity."
+    "discordMusicApp": "A web application that facilitates group music listening and managing favorite tracks using a Discord music bot. Users can register, add songs using the YouTube API, categorize them, 'like' them, and create their own playlists. The project leverages Angular for a dynamic user interface and Node.js with MongoDB on the backend, ensuring security with JWT. A unique feature is the ability to customize the music bot command prefixes (e.g., /play), which simplifies song requesting directly on the Discord server, enhancing user interactivity.",
+    "motooto": "An online platform for browsing, adding, and tracking car sales listings.\nThe dynamic and responsive user interface is built using React.js, utilizing the Mantine library.\nCommunication with the MongoDB database is facilitated through a REST API to the backend implemented with express.js.\nRegistration and authentication are secured using the JWT standard and bCrypt algorithm."
   },
   "technologies": "Technologies & Tools",
   "whatImWorkingWith": "What I'm working with"

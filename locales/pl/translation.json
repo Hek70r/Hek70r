@@ -22,7 +22,8 @@
   "whatIHaveCreatedSoFar": "Czym moge się pochwalić",
   "myProjects": "Projekty",
   "projects": {
-    "discordMusicApp": "Aplikacja webowa ułatwiająca grupowe słuchanie muzyki i zarządzanie ulubionymi utworami korzystając z bota muzycznego na Discordzie. Użytkownicy mogą rejestrować się, dodawać piosenki wykorzystując YouTube API, kategoryzować je, like'ować oraz tworzyć własne playlisty. Projekt wykorzystuje Angular dla dynamicznego interfejsu użytkownika i Node.js z MongoDB na backendzie, zapewniając bezpieczeństwo dzięki JWT. Unikalną cechą jestmożliwość personalizacji prefixów komend bota muzycznego (np. /play), co ułatwia requestowanie piosenek bezpośrednio na serwerze Discord, podnosząc interaktywność użytkowników."
+    "discordMusicApp": "Aplikacja webowa ułatwiająca grupowe słuchanie muzyki i zarządzanie ulubionymi utworami korzystając z bota muzycznego na Discordzie. Użytkownicy mogą rejestrować się, dodawać piosenki wykorzystując YouTube API, kategoryzować je, like'ować oraz tworzyć własne playlisty. Projekt wykorzystuje Angular dla dynamicznego interfejsu użytkownika i Node.js z MongoDB na backendzie, zapewniając bezpieczeństwo dzięki JWT. Unikalną cechą jestmożliwość personalizacji prefixów komend bota muzycznego (np. /play), co ułatwia requestowanie piosenek bezpośrednio na serwerze Discord, podnosząc interaktywność użytkowników.",
+    "motooto": "Aplikacja internetowa umożliwiająca przeglądanie, dodawanie i śledzenie ogłoszeń sprzedaży  aut.\nDynamiczny i responsywny interfejs użytkownika został stworzony w React.js, z wykorzystaniem biblioteki Mantine.\nKomunikacja z bazą danych MongoDB odbywa się poprzez REST API do backendu zaimplementowanego w oparciu o express.js.\nRejestracja i uwierzytelnianie jest bezpieczne dzięki standardowi JWT oraz algorytmowi bCrypt."
   },
   "technologies": "Technologie & Narzędzia",
   "whatImWorkingWith": "Czego używam do pracy"
